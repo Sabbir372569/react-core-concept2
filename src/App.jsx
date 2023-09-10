@@ -7,6 +7,7 @@ import Friends from './friends';
 
 
 
+
 function App() {
   
   function handleClick(){         //used normal function
